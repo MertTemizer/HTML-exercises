@@ -1,0 +1,38 @@
+body{
+    font-size: 12px;
+}
+
+#artc1 {
+    display: flex;
+    margin-left: 40%;
+    gap: 20px;
+    text-decoration: underline;
+}
+
+#artc2 {
+    margin-left: 35%;
+}
+
+.artc2-header{
+    color: white;
+    background-color: brown;
+    display: inline;
+    border-radius: 5px;
+}
+
+#artc3 {
+    margin-left: 35%;
+}
+
+.artc3-header{
+    color: white;
+    background-color: brown;
+    display: inline;
+    border-radius: 5px;
+}
+
+#artc4{
+    margin-left: 70%;
+    font-size: 18px;
+    
+}
